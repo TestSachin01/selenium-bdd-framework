@@ -25,4 +25,4 @@ Feature: Testing featue file one
     
     Examples:
     |Item|
-		|Mobile|
+    |Mobile|
