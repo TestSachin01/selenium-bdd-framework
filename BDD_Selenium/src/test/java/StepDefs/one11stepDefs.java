@@ -60,6 +60,7 @@ public class one11stepDefs {
 	    Actions action = new Actions(driver);
 	    action.click(searchBox).sendKeys(Item).sendKeys(Keys.ENTER).perform();
 	    Thread.sleep(4000);
+		System.out.println("Adding ::");
 	}
 	    
 
